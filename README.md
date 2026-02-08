@@ -1,7 +1,3 @@
-### This is a project I created with Phidata/Agno framework
-
-# <img width="1470" height="699" alt="Image" src="https://github.com/user-attachments/assets/eaa17231-f6b3-4927-806f-f458d8da3c1d" />
-
 ## Trading Agent: Web Search & Data Extraction
 
 ### Overview
@@ -31,3 +27,5 @@ Built with the Phidata (now Agno) framework, the agent integrates multiple tools
 • DuckDuckGo: A privacy-focused search engine used to query real-time market data and stock prices.
 
 • Python: Core programming language used to orchestrate the system.
+
+# <img width="1470" height="699" alt="Image" src="https://github.com/user-attachments/assets/eaa17231-f6b3-4927-806f-f458d8da3c1d" />
